@@ -505,6 +505,7 @@ Media:
 
 - https://subspace.network
 - https://medium.com/subspace-network
+- https://twitter.com/NetworkSubspace
 - https://discord.com/invite/K56A6xrdw9
 - https://t.me/subspace_network
 - https://reddit.com/r/sub
@@ -516,10 +517,9 @@ GitHub:
 
 ``` toml
 repos = [
-"subspace/subspace"
-"subspace/subspace-relayer"
-"subspace/subspace-desktop
-"subspace/sloth256-189"
+"subspace/subspace",
+"subspace/subspace-desktop",
+"subspace/sloth256-189",
 ]
 ```
 
