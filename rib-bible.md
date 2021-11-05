@@ -499,30 +499,6 @@ repos = [
 ]
 ```
 
-## Subspace Labs
-
-Media:
-
-- https://subspace.network
-- https://medium.com/subspace-network
-- https://discord.com/invite/K56A6xrdw9
-- https://t.me/subspace_network
-- https://reddit.com/r/sub
-- https://www.youtube.com/channel/UCojYRCZOtVTJHJXivOYJzeQ
-
-GitHub:
-
-- https://github.com/subspace
-
-``` toml
-repos = [
-"subspace/subspace"
-"subspace/subspace-relayer"
-"subspace/subspace-desktop
-"subspace/sloth256-189"
-]
-```
-
 ## TezEdge
 
 GitHub:
