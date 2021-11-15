@@ -1,23 +1,29 @@
 ---
-title: "RiB Newsletter #24"
-description: "#24 - May 2021"
-date: 2021-06-02
-slug: "/"
+title: "RiB Newsletter #30 - _TODO_"
+description: "#30 - November 2021"
+date: 2021-12-01
 categories:
   - "newsletters"
-summary: ""
+summary: "_TODO_"
 ---
 
-Welcome to the #24 edition of Rust in Blockchain,
-the chillest newsletter about the chillest tech.
-[Previous: #23](/newsletters/rewriting-in-rust/)
+Welcome to the #30 edition of Rust in Blockchain, the monthly
+newsletter about Rust, distributed systems, cryptography, and other
+industry topics.
+[Previous: #29](/newsletters/rib-newsletter-29/).
+
+TODO:
+- donation from MASQ https://twitter.com/rust_blockchain/status/1457851144550502404?s=20
+- donation rustinblockchain.bit
 
 &nbsp;
 
 ## Thanks
 
 Thanks to contributors:
-[naternater][contributorna],
+[Amir Taaki],
+Michael Ward,
+[y2kappa],
 
 _TODO_
 
@@ -27,11 +33,12 @@ RiB needs help to keep up with Rust blockchain projects.
 If you follow a particular project, or otherwise find information 
 that is beneficial to the Rust & blockchain community, 
 please contribute to the next issue
-by submitting a PR to the [#25 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
+by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
-[contributorna]: https://github.com/naternater
-[contributorba]: https://github.com/brson
-[contributoraz]: https://github.com/Aimeedeer
+[Amir Taaki]: https://github.com/narodnik
+[y2kappa]: https://github.com/y2kappa
+[Brian Anderson]: https://github.com/brson
+[Aimee Zhu]: https://github.com/Aimeedeer
 
 &nbsp;
 
@@ -48,18 +55,28 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### News
 
 
-#### Blog Posts
+#### Blog Posts and Discussions
 
+- [Top 10 DeFi Security Best Practices](https://blog.chain.link/defi-security-best-practices/)
+- [What dApps are built on Rust?](https://www.reddit.com/r/rust/comments/qpkyi2/what_dapps_are_built_on_rust/)
 
 #### Papers
 
 
 #### Projects
 
+- [brainwallet](https://github.com/FrankBuss/brainwallet). Rust command line program for Bitcoin brainwallet.
+- [das-contracts](https://github.com/DeAccountSystems/das-contracts).
+  DAS is a decentralized account system that provides a globally unique naming system.
 
 &nbsp;
 
-## Most Active in March
+## Security Advisories
+
+
+&nbsp;
+
+## Most Active in November
 
 &nbsp;
 
@@ -69,7 +86,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Aleo](https://github.com/AleoHQ)
 
-#### [CodeChain](https://github.com/CodeChain-io)
+#### [Anoma](https://github.com/anoma)
+
+#### [ChainSafe](https://github.com/ChainSafe)
 
 #### [COMIT](https://github.com/comit-network)
 
@@ -77,11 +96,15 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Conflux](https://github.com/Conflux-Chain)
 
-#### [Crypto.com Chain](https://github.com/crypto-com)
+#### [DarkFi](https://dark.fi)
+
+#### [Dfinity](https://github.com/dfinity)
 
 #### [Diem](https://github.com/diem)
 
 #### [Elrond](https://github.com/ElrondNetwork)
+
+#### [Findora](https://github.com/FindoraNetwork)
 
 #### [Fluence](https://github.com/fluencelabs)
 
@@ -103,10 +126,11 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Nervos](https://github.com/nervosnetwork)
 
-#### [Oasis](https://github.com/oasislabs)
-
 #### [Parity](https://github.com/paritytech)
-  
+
+
+- [Research Update: Utility Token Design](https://medium.com/polkadot-network/research-update-utility-token-design-d49b7a0c10b3)
+
 #### [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 
 #### [Rust Ethereum](https://github.com/rust-ethereum)
@@ -130,7 +154,7 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 <!--
 
-May 1-2 | Online
+Dec 1-2 | Online
 
 [Event Sample](https://event.sample)
 
@@ -143,15 +167,19 @@ May 1-2 | Online
 ## Careers
 
 <!--
+
 Company name | Location A, B, Remote
 - [Job 1](https://job.one)
 - [Job 2](https://job.two)
+
 -->
 
-Kollider | Remote
-- [Junior Backend Engineer](https://kollider.homerun.co/junior-backend-engineer/en)
-- [Senior Backend Engineer](https://kollider.homerun.co/senior-backend-engineer/en)
-- [DevOps Engineer](https://kollider.homerun.co/devops-engineer/en)
+
+Hubble (Solana, DeFi) | London, Remote
+- [Software engineer](https://hubble.markets/careers)
+
+Worldcoin | Berlin, San Francisco
+- [Rust Engineer](https://boards.greenhouse.io/worldcoinorg/jobs/4021152004)
 
 More jobs can be found at [Job Board][page-jobboard].
 
@@ -160,7 +188,7 @@ More jobs can be found at [Job Board][page-jobboard].
 &nbsp;
 
 Want to be included in the next issue? Feel free to submit a PR to the
-[#25 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
+[#23 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
 **Join the discussion on [RiB telegram group][ribtg]** **❤️**
 

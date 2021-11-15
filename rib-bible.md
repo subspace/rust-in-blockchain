@@ -32,33 +32,48 @@ GitHub:
 repos = [
 "AleoHQ/aleo",
 "AleoHQ/snarkOS",
+"AleoHQ/snarkVM",
 "AleoHQ/leo",
 ]
 ```
-
-## CodeChain
+## Anoma
 
 Media:
 
-- https://medium.com/codechain
-- https://twitter.com/codechain_io
-- https://research.codechain.io
+- https://anoma.network
+- https://twitter.com/anomanetwork
+
 
 GitHub:
 
-- https://github.com/CodeChain-io
+- https://github.com/anoma
 
-``` toml
+```toml
 repos = [
-"CodeChain-io/codechain",
-"CodeChain-io/foundry",
-"CodeChain-io/foundry-rpc-js",
-"CodeChain-io/foundry-primitives-js",
-"CodeChain-io/foundry-keystore-js",
-"CodeChain-io/foundry-keystore-cli",
-"CodeChain-io/foundry-sandbox",
+"anoma/anoma",
+"anoma/ferveo",
+"anoma/masp",
+"anoma/plonkup-hash",
 ]
 ```
+
+## ChainSafe
+
+Media:
+
+- https://medium.com/chainsafe-systems
+
+GitHub:
+
+- https://github.com/ChainSafe
+
+```toml
+repos = [
+"ChainSafe/forest",
+"ChainSafe/filecoindot",
+]
+```
+
 
 ## COMIT
 
@@ -139,6 +154,45 @@ repos = [
 ]
 ```
 
+## DarkFi
+
+Media:
+
+- https://dark.fi/
+- https://twitter.com/DarkFiSquad/
+
+GitHub:
+
+- https://github.com/darkrenaissance/darkfi
+
+```toml
+repos = [
+"darkrenaissance/darkfi",
+]
+```
+
+## Dfinity
+
+Media:
+
+- https://medium.com/dfinity
+
+GitHub:
+
+- https://github.com/dfinity
+
+```toml
+repos = [
+"dfinity/agent-rs",
+"dfinity/candid",
+"dfinity/cdk-rs",
+"dfinity/ic",
+"dfinity/ic-types",
+"dfinity/quill",
+"dfinity/vessel",
+]
+```
+
 ## Diem
 
 Media:
@@ -178,6 +232,25 @@ repos = [
 ]
 
 ```
+## Findora
+
+Media:
+
+- https://findora.org
+- https://twitter.com/findoraofficial
+
+GitHub:
+
+- https://github.com/FindoraNetwork
+
+```toml
+repos = [
+"FindoraNetwork/platform",
+"FindoraNetwork/zei",
+"FindoraNetwork/merk",
+"FindoraNetwork/storage",
+]
+```
 
 ## Fluence
 
@@ -193,11 +266,12 @@ GitHub:
 ```toml
 repos = [
 "fluencelabs/fluence",
-"fluencelabs/fce",
-"fluencelabs/air",
-"fluencelabs/rust-sdk",
+"fluencelabs/marine",
+"fluencelabs/aquavm",
+"fluencelabs/marine-rs-sdk",
 ]
 ```
+
 
 ## Golem
 
@@ -319,6 +393,7 @@ GitHub:
 
 ``` toml
 repos	= [
+"mobilecoinfoundation/fog",
 "mobilecoinfoundation/mobilecoin",
 ]
 
@@ -366,6 +441,7 @@ repos = [
 "nervosnetwork/ckb-cli",
 "nervosnetwork/capsule",
 "nervosnetwork/ckb-std",
+"nervosnetwork/force-bridge-eth",
 ]
 ```
 ## Oasis
@@ -456,13 +532,13 @@ Media:
 
 GitHub:
 
-- https://github.com/enigmampc
+- https://github.com/scrtlabs
 
 ``` toml
 repos = [
-"enigmampc/SecretNetwork",
-"enigmampc/secret-toolkit",
-"enigmampc/SafeTrace",
+"scrtlabs/SecretNetwork",
+"scrtlabs/secret-toolkit",
+"scrtlabs/SafeTrace",
 ]
 ```
 

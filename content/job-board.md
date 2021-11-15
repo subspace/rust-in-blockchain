@@ -10,13 +10,24 @@ pager: false
 
 [rib-job]: https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/content/job-board.md
 
+Aleo | San Francisco, Remote
+- [Senior Protocol Engineer](https://www.aleo.org/jobs/senior-protocol-engineer)
+- [Senior Compiler Engineer](https://www.aleo.org/jobs/senior-compiler-engineer)
+- [Full Stack Developer](https://www.aleo.org/jobs/full-stack-developer)
+- [Interface Designer](https://www.aleo.org/jobs/interface-designer)
 
-Aleo | San Francisco, US; Remote
-- [Full-Stack Developer](https://aleo.org/jobs/full-stack-developer)
-- [Senior Protocol Engineer](https://aleo.org/jobs/senior-protocol-engineer)
-- [Senior Compiler Engineer](https://aleo.org/jobs/senior-compiler-engineer)
-- [Full-Stack Developer](https://aleo.org/jobs/full-stack-developer)
-- [Interface Designer](https://aleo.org/jobs/interface-designer)
+Anoma | Berlin, Remote
+- [Senior Rust Engineer](https://heliax.dev/jobs/senior-rust-engineer/)
+- [Rust P2P Networking Engineer](https://heliax.dev/jobs/rust-p2p-networking-engineer)
+- [Technical Engineering Manager](https://heliax.dev/jobs/technical-engineering-manager/)
+- [Zero-Knowledge Cryptographer & Protocol Developer](https://heliax.dev/jobs/zero-knowledge-cryptographer-protocol-developer/)
+- [Distributed Systems Research Engineer](https://heliax.dev/jobs/distributed-systems-research-engineer/)
+
+`arkworks` | Remote
+- [Co-maintainer](https://form.jotform.com/212026632139145)
+
+Aurora | Remote
+- [Blockchain/Bridge Engineer](https://docs.google.com/document/d/1xXMEeQffOv2rfPT4jpipwkjo4osmfyAp4eEl51j3dt4/edit?usp=sharing)
 
 Casper Labs | Remote
 - [Rust Core Engineer](https://apply.workable.com/casperlabs/j/85A300F063/)
@@ -31,8 +42,21 @@ Chainlink | Remote
 ChainSafe | Toronto, Remote
 - [Rust Software Engineer](https://www.notion.so/chainsafe/Blockchain-Developer-Rust-0d577a2636b84511a5d4efc69454585d)
 
+cLabs / Celo | Remote
+- [Senior Rust Engineer](https://jobs.lever.co/clabs/46bf6e13-ef54-4a5c-9287-2c0557ad9db4)
+
 Compound | Remote
 - [Rust Engineer](https://www.crypto-careers.com/jobs/39500671-rust-engineer-at-compound)
+
+Convexity DMCC | Dubai, On Site & Remote
+- [Smart Contract Engineer (Rust)](https://angel.co/company/convexity-dmcc/jobs/1453304-smart-contract-engineer-rust)
+
+Dash Core Group | Remote
+- [Database Engineer](http://jobs.dash.org/apply/fDSbW6F7PM/Database-Engineer-Rust)
+- [Senior Database Engineer](http://jobs.dash.org/apply/yg93YShb9i/Senior-Database-Engineer-Rust)
+
+DEX Labs | Remote
+- [Rust Engineer](https://dex-labs.breezy.hr/p/fea339739adb-rust-engineer)
 
 Diem | Remote
 - [Developer Advocate](https://www.diem.com/en-us/job-board/?gh_jid=4465800002)
@@ -48,6 +72,9 @@ DFINITY | San Francisco, CA; Palo Alto, CA; Zurich, Switzerland; Remote
 - [Software Engineer, Front-End](https://grnh.se/b8daa0ed2us)
 - [Software Engineer, SDK](https://grnh.se/92e1344b2us)
 
+e^{i} Ventures | Remote
+- [Senior Rust Smart Contract Engineer](https://cryptocurrencyjobs.co/engineering/hedgehog-markets-senior-smart-contract-engineer-rust-solana/)
+
 ElevenYellow | Remote
 - [Rust Engineer](https://cryptocurrencyjobs.co/engineering/elevenyellow-rust-developer/)
 
@@ -59,8 +86,23 @@ Findora | Beijing, China; Menlo Park, CA
 - [Director of Engineering](https://jobs.lever.co/findora/d1981ece-fb53-4b41-96d9-346b1974a7d8)
 - [Senior Systems Engineer](https://jobs.lever.co/findora/e89e2e02-622c-41da-a14d-c12d854a25b5)
 
+Foundation Devices | Boston, MA - San Diego, CA - Remote
+- [Embedded Rust Engineer](https://angel.co/company/foundationdevices/jobs/1436754-embedded-rust-engineer)
+- [Bitcoin Rust Engineer](https://angel.co/company/foundationdevices/jobs/1436755-bitcoin-rust-engineer)
+- [Tools/Test/Build Software Engineer (Rust)](https://angel.co/company/foundationdevices/jobs/1436756-tools-test-build-software-engineer)
+
+Fractal Protocol | Remote or Berlin
+- [Rust and Blockchain Engineer](https://gist.github.com/juliosantos/ba6d01ffab39b5c06ea459d88b1f735f)
+
 Fuel Labs | Remote
 - [Senior Software Engineer [Rust]](https://jobs.lever.co/fuellabs/13b01903-490a-4497-b778-35434f4188cf)
+
+Hubble (Solana, DeFi) | London, Remote
+- [Software engineer](https://hubble.markets/careers)
+
+IO Global | Remote
+- [Software Engineer - Rust](https://apply.workable.com/io-global/j/40A7923138/)
+- [Software Engineering Lead - Rust](https://apply.workable.com/io-global/j/870698A849/)
 
 Jet Protocol | Remote
 - [Rust Blockchain Engineer](https://docs.google.com/document/d/1GXuk2LPxoYxIdQGwsL9IZ34B7WjlgkdJBgY7QBgBIn0)
@@ -95,22 +137,28 @@ Matter Labs | Berlin/Kiev or Remote
 - [Tech Team Lead (Rust)](https://www.notion.so/Tech-Team-Lead-Rust-e336a6285c60426f9f95700b2da1beac)
 
 Moonbeam | Boston, MA USA; Madrid, Spain; Remote
-- [Senior Blockchain Engineer](https://www.purestake.com/about/careers/openings/?jobId=d2VA-4HA7Iw6)
+- [Senior Blockchain Engineer, Contract Runtime](https://www.purestake.com/about/careers/openings/?jobId=d2VA-4HA7Iw6)
+
+NEAR | Remote
+- [Low-Level Developer, Contract Runtime](https://docs.google.com/document/d/18HEwef-HDPZ2FPYfaHWpsd-kSF8E4zNpeQVulqhfFSk/edit?usp=sharing)
+
+Oxygen | Dubai or Remote
+- [Rust Smart Contract Engineer](https://cryptocurrencyjobs.co/engineering/oxygen-smart-contract-engineer-rust/)
 
 Parity Technologies | Berlin or Remote 
-- [Blockchain Node Developer](https://grnh.se/a070a3c83us)
-- [Rust Performance Engineer](https://grnh.se/122d55873us)
-- [Core Developer - Runtime](https://grnh.se/87f802f93us)
-- [Solution Engineer](https://grnh.se/d7fe278f3us)
-- [Rust Developer - Tools](https://grnh.se/e1cc2c0c3us)
-- [P2P Network Engineer](https://grnh.se/4e54162d3us)
-- [Rust/Core Developer](https://grnh.se/0efc64513us)
+- [Core Rust Developer - Cross-chain Messaging (Polkadot)](https://grnh.se/dafd8e973us)
+- [Core Rust Developer - Consensus (Polkadot)](https://grnh.se/470a1a623us)
+- [Solution Engineer - Substrate](https://grnh.se/d7fe278f3us)
+- [Rust/Core Developer - Open Application](https://grnh.se/0efc64513us)
 
 Protocol Labs | Remote
 - [Software Engineer, Cryptography & Systems](https://jobs.lever.co/protocol/9afbc1c9-8b3b-4c03-856d-6b0cb5518eaa)
 - [Software Engineer, Peer-to-Peer Networks](https://jobs.lever.co/protocol/e4a469e4-c420-4ae5-acea-44c33a03dbd2)
 - [Sr. Software Engineer, libp2p](https://jobs.lever.co/protocol/8c03a123-4890-4265-96e1-0427bd7ec193)
 - [Sr. Software Engineer, Filecoin](https://jobs.lever.co/protocol/3490e571-4d47-487e-a47f-b02f08668290)
+
+PsyOptions Inc. | Remote
+- [Rust Solana Program Engineer](https://jobs.solana.com/companies/psyoptions/jobs/5215445-rust-engineer)
 
 [Revault](mailto:darosior@protonmail.com) | Portugal or Remote
 - Build a [Bitcoin vault architecture](https://github.com/re-vault/practical-revault/blob/master/revault.pdf)
@@ -126,9 +174,9 @@ Soramitsu | Remote
 
 Subspace Labs | Remote
 - [Core Protocol Engineer](https://jobs.lever.co/subspacelabs/7f6a654b-60a8-4740-aa19-36b9f7a9e624)
-- [Blockchain Consensus Engineer](https://jobs.lever.co/subspacelabs/d5d62ccb-eaaf-43f4-83ad-11ebff2ce3a0?lever-origin=applied&lever-source%5B%5D=Rust%20in%20Blockchain)
-- [P2P Network Engineer](https://jobs.lever.co/subspacelabs/6b2c3833-0bbb-409e-9484-049679390756?lever-origin=applied&lever-source%5B%5D=Rust%20in%20Blockchain)
-- [EVM Execution Engineer](https://jobs.lever.co/subspacelabs/9d8f9b6d-4141-4782-923a-2872a06c723e?lever-origin=applied&lever-source%5B%5D=Rust%20in%20Blockchain)
+- [Blockchain Consensus Engineer](https://jobs.lever.co/subspacelabs/d5d62ccb-eaaf-43f4-83ad-11ebff2ce3a0)
+- [P2P Network Engineer](https://jobs.lever.co/subspacelabs/6b2c3833-0bbb-409e-9484-049679390756)
+- [EVM Execution Engineer](https://jobs.lever.co/subspacelabs/9d8f9b6d-4141-4782-923a-2872a06c723e)
 
 The Graph | Remote
 - [Rust Engineer at The Graph](https://thegraph.com/jobs/rust-engineer)

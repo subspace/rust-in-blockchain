@@ -1,16 +1,16 @@
 ---
-title: "RiB Newsletter #22"
-description: "#22 - March 2021"
-date: 2021-03-31
-slug: "/"
+title: "RiB Newsletter #29 - _TODO_"
+description: "#29 - October 2021"
+date: 2021-11-03
 categories:
   - "newsletters"
-summary: ""
+summary: "_TODO_"
 ---
 
-Welcome to the #22 edition of Rust in Blockchain,
-the chillest newsletter about the chillest tech.
-[Previous: #21](/newsletters/more-rust-and-blockchains/).
+Welcome to the #29 edition of Rust in Blockchain, the monthly
+newsletter about Rust, distributed systems, cryptography, and other
+industry topics.
+[Previous: #28](/newsletters/rib-newsletter-28/).
 
 &nbsp;
 
@@ -26,10 +26,10 @@ RiB needs help to keep up with Rust blockchain projects.
 If you follow a particular project, or otherwise find information 
 that is beneficial to the Rust & blockchain community, 
 please contribute to the next issue
-by submitting a PR to the [#23 draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
+by submitting a PR to the [next draft](https://github.com/rust-in-blockchain/Rust-in-Blockchain/tree/master/draft).
 
-[contributorba]: https://github.com/brson
-[contributoraz]: https://github.com/Aimeedeer
+[Brian Anderson]: https://github.com/brson
+[Aimee Zhu]: https://github.com/Aimeedeer
 
 &nbsp;
 
@@ -57,7 +57,12 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 &nbsp;
 
-## Most Active in March
+## Security Advisories
+
+
+&nbsp;
+
+## Most Active in October
 
 &nbsp;
 
@@ -67,7 +72,9 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Aleo](https://github.com/AleoHQ)
 
-#### [CodeChain](https://github.com/CodeChain-io)
+#### [Anoma](https://github.com/anoma)
+
+#### [ChainSafe](https://github.com/ChainSafe)
 
 #### [COMIT](https://github.com/comit-network)
 
@@ -75,11 +82,15 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 #### [Conflux](https://github.com/Conflux-Chain)
 
-#### [Crypto.com Chain](https://github.com/crypto-com)
+#### [DarkFi](https://dark.fi)
+
+#### [Dfinity](https://github.com/dfinity)
 
 #### [Diem](https://github.com/diem)
 
 #### [Elrond](https://github.com/ElrondNetwork)
+
+#### [Findora](https://github.com/FindoraNetwork)
 
 #### [Fluence](https://github.com/fluencelabs)
 
@@ -100,8 +111,6 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 #### [NEAR](https://github.com/nearprotocol/nearcore)
 
 #### [Nervos](https://github.com/nervosnetwork)
-
-#### [Oasis](https://github.com/oasislabs)
 
 #### [Parity](https://github.com/paritytech)
   
@@ -128,15 +137,12 @@ Each month we like to shine a light on a notable Rust blockchain project. This m
 
 <!--
 
-May 1-2 | Online
+Dec 1-2 | Online
 
 [Event Sample](https://event.sample)
 
 -->
 
-May 20 | Online
-
-[Polkadot Decoded](https://decoded.polkadot.network/).
 
 
 &nbsp;
@@ -144,9 +150,11 @@ May 20 | Online
 ## Careers
 
 <!--
+
 Company name | Location A, B, Remote
 - [Job 1](https://job.one)
 - [Job 2](https://job.two)
+
 -->
 
 
